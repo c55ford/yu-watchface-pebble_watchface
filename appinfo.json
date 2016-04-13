@@ -1,0 +1,43 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "cford136@gmail.com",
+    "enableMultiJS": true,
+    "longName": "YorkU Pride",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "fonts/pines.zip",
+                "name": "pines_18",
+                "targetPlatforms": null,
+                "type": "font"
+            },
+            {
+                "file": "fonts/pines.zip",
+                "name": "pines_48",
+                "targetPlatforms": null,
+                "type": "font"
+            },
+            {
+                "file": "images/pebble-yuheart.png",
+                "menuIcon": true,
+                "name": "YuHeart",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "YUpride",
+    "targetPlatforms": [
+        "basalt"
+    ],
+    "uuid": "c6b5a8ca-823e-4d99-9304-64e6d007df5e",
+    "versionLabel": "2.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
